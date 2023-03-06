@@ -1,4 +1,6 @@
 ### Hello there 👋
+I am a Student at the Faculty of Computers and artificial Intelligence Cairo University and I am Interested in Computer Vision and Brain Computer Interfacing. 
+
 
 <!--
 **esraa9322/esraa9322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
